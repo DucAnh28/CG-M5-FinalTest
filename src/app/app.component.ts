@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {Tour} from "./model/tour";
 
 @Component({
   selector: 'app-root',
